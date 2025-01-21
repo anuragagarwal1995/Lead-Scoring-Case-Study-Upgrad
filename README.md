@@ -13,7 +13,12 @@ There are some more problems presented by the company which your model should be
 
 
 Approach taken:
+https://github.com/anuragagarwal1995/Lead-Scoring-Case-Study-Upgrad/blob/main/Summary%20of%20Analysis%20for%20X%20Education.pdf
+
 
 Analysis, Model Building, Conclusion and Reccomendation:
+https://github.com/anuragagarwal1995/Lead-Scoring-Case-Study-Upgrad/blob/main/Lead%20Scoring%20Case%20Study.pdf
+
 
 Jupyter Notebook:
+https://github.com/anuragagarwal1995/Lead-Scoring-Case-Study-Upgrad/blob/main/Lead%20Scoring%20Case%20Study%20Final.ipynb
